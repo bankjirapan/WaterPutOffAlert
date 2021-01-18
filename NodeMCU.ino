@@ -13,7 +13,7 @@ WiFiManager wifiManager;
 // Variable
 const int pingPIN = 12;
 const int trigerPIN = 13;
-char blynkToken[] = "fe1f8af3e06747aeba411796d1abc4c7";
+char blynkToken[] = "";
 
 
 void setup()
